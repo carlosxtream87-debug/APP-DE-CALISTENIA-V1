@@ -1,0 +1,6 @@
+{
+  "name": "Calisthenix",
+  "description": "App completo de calistenia com treinos guiados, progressão de habilidades, timer de descanso, rotinas personalizadas e histórico de evolução.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
